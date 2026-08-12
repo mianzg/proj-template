@@ -1,0 +1,7 @@
+# Pin versions once the project stabilizes, e.g. numpy==1.26.4
+numpy
+pandas
+matplotlib
+jupyterlab
+python-dotenv
+pyyaml
